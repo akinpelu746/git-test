@@ -1,3 +1,5 @@
 # git-test
 
-My first commit
+My first commit.
+
+My second commit
